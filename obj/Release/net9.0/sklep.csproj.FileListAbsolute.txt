@@ -1,0 +1,14 @@
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\bin\Release\net9.0\sklep.exe
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\bin\Release\net9.0\sklep.deps.json
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\bin\Release\net9.0\sklep.runtimeconfig.json
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\bin\Release\net9.0\sklep.dll
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\bin\Release\net9.0\sklep.pdb
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.dll
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\refint\sklep.dll
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.pdb
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\sklep.genruntimeconfig.cache
+C:\Users\kacpe\OneDrive\Desktop\vs\sklep\obj\Release\net9.0\ref\sklep.dll
